@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rayyannafees/xpress-try/issues"
   },
-  "homepage": "https://github.com/rayyannafees/xpress-try#readme"
+  "homepage": "https://github.com/rayyannafees/xpress-try#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
